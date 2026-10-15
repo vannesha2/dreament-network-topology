@@ -10,6 +10,10 @@ The network is designed to organize devices and departments across three floors 
 
 The main goal of this project was to design, configure, and test a structured enterprise network using Cisco Packet Tracer.
 
+## Screenshots
+![Tampilan](./dreament_network_topology_preview.png)
+
+
 ## 🏢 Network Design
 
 The simulated network consists of three floors:
